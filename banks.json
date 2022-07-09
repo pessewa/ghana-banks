@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Absa Bank Ghana Limited",
+        "slug": "absa-bank-ghana-limited"
+    },
+    {
+        "name": "Access Bank Ghana Plc",
+        "slug": "access-bank-ghana-plc"
+    },
+    {
+        "name": "Agricultural Development Bank Limited",
+        "slug": "agricultural-development-bank-limited"
+    },
+    {
+        "name": "Bank of Africa Ghana Limited",
+        "slug": "bank-of-africa-ghana-limited"
+    },
+    {
+        "name": "CalBank PLC",
+        "slug": "calbank-plc"
+    },
+    {
+        "name": "Consolidated Bank Ghana Limited",
+        "slug": "consolidated-bank-ghana-limited"
+    },
+    {
+        "name": "Ecobank Ghana Limited",
+        "slug": "ecobank-ghana-limited"
+    },
+    {
+        "name": "FBNBank Ghana Limited",
+        "slug": "fbnbank-ghana-limited"
+    },
+    {
+        "name": "Fidelity Bank Ghana Limited",
+        "slug": "fidelity-bank-ghana-limited"
+    },
+    {
+        "name": "First Atlantic Bank Limited",
+        "slug": "first-atlantic-bank-limited"
+    },
+    {
+        "name": "First National Bank Ghana Limited",
+        "slug": "first-national-bank-ghana-limited"
+    },
+    {
+        "name": "GCB Bank Limited",
+        "slug": "gcb-bank-limited"
+    },
+    {
+        "name": "Guaranty Trust Bank Ghana Limited",
+        "slug": "guaranty-trust-bank-ghana-limited"
+    },
+    {
+        "name": "National Investment Bank Limited",
+        "slug": "national-investment-bank-limited"
+    },
+    {
+        "name": "OmniBSIC Bank Ghana Limited",
+        "slug": "omnibsic-bank-ghana-limited"
+    },
+    {
+        "name": "Prudential Bank Limited",
+        "slug": "prudential-bank-limited"
+    },
+    {
+        "name": "Republic Bank Ghana PLC",
+        "slug": "republic-bank-ghana-plc"
+    },
+    {
+        "name": "Societe General Ghana Limited",
+        "slug": "societe-general-ghana-limited"
+    },
+    {
+        "name": "Stanbic Bank Ghana Limited",
+        "slug": "stanbic-bank-ghana-limited"
+    },
+    {
+        "name": "Standard Chartered Bank Ghana Limited",
+        "slug": "standard-chartered-bank-ghana-limited"
+    },
+    {
+        "name": "United Bank for Africa Ghana Limited",
+        "slug": "united-bank-for-africa-ghana-limited"
+    },
+    {
+        "name": "Universal Merchant Bank Limited",
+        "slug": "universal-merchant-bank-limited"
+    },
+    {
+        "name": "Zenith Bank Ghana Limited",
+        "slug": "zenith-bank-ghana-limited"
+    }
+]
